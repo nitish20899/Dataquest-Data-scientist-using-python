@@ -1,0 +1,5 @@
+we're going to build a spam filter for SMS messages.
+
+So our first task is to "teach" the computer how to classify messages. To do that, we'll use the multinomial Naive Bayes algorithm along with a dataset of 5,572 SMS messages that are already classified by humans.
+
+The dataset was put together by Tiago A. Almeida and José María Gómez Hidalgo
